@@ -4,3 +4,8 @@ class Dog
     @breed = breed
   end
 end
+
+playdough = Dog.new("PlayDough")
+
+puts playdough.name
+puts playdough.breed
