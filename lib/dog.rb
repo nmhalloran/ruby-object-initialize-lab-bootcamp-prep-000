@@ -9,7 +9,7 @@ class Dog
   def breed
     @breed
   end
-  
+
 end
 
 playdough = Dog.new("PlayDough")
